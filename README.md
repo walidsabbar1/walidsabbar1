@@ -13,8 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 
----
-
 ### ⚙️ Backend
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby)
 ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=for-the-badge&logo=rubyonrails)
@@ -22,20 +20,15 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)
 
----
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
-
----
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 ![C#](https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&logo=csharp)
 
----
 
 ### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
