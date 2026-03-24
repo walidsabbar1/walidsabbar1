@@ -27,7 +27,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidsabbar1&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidsabbar1&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidsabbar1&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/apiusername=walidsabbar1&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=walidsabbar1&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
 <img height="169em" src="https://nirzak-streak-stats.vercel.app?user=walidsabbar1&theme=radical">
 
 </div><br>
