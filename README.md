@@ -25,7 +25,7 @@
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Activity and Contributions
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=walidsabbar1&theme=tokyo-night&hide_border=true" />
@@ -33,8 +33,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidsabbar1/walidsabbar1/output/github-contribution-grid-snake-dark.svg">
@@ -49,7 +47,7 @@
 <div align="center">
 
 <a href="https://github.com/walidsabbar1" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github,instagram" />
 </a>
 
 </div>
