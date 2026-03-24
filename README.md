@@ -4,7 +4,7 @@
 ## 🛠️ Tech Stack
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,tailwind,react,laravel,nodejs,mongodb,mysql,jquery,redux,vite,postman,python,java,ruby,rails,vercel,supabase,git,bash,github,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,tailwind,react,laravel,nodejs,mongodb,mysql,jquery,redux,vite,postman,python,java,ruby,rails,vercel,supabase,git,bash,github,linux&perline=10" />
 </a>
 </div>
 <br>
