@@ -8,7 +8,7 @@
 </a>
 </div>
 <br>
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidsabbar1&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=walidsabbar1&theme=radical">
