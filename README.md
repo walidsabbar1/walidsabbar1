@@ -47,7 +47,7 @@
 <div align="center">
 
 <a href="https://github.com/walidsabbar1" target="_blank">
-GitHub
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </div>
