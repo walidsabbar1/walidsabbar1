@@ -9,20 +9,10 @@
 
 ## Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby)
-![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=for-the-badge&logo=rubyonrails)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
-![C#](https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&logo=csharp)
-![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
-![Agile](https://img.shields.io/badge/-Agile-blue?style=for-the-badge)
-![Office](https://img.shields.io/badge/-MS%20Office-red?style=for-the-badge)
+<div align="center">
+
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,tailwind,react,laravel,nodejs,mongodb,mysql,jquery,redux,vite,postman,java,ruby,rails,vercel,supabase,git,bash,linux&perline=11" />
+</a>
+
+</div>
