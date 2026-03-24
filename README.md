@@ -19,3 +19,10 @@
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=walidsabbar1&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
 <img height="169em" src="https://nirzak-streak-stats.vercel.app?user=walidsabbar1&theme=radical">
 </div><br>
+
+## Latest commits
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidsabbar1/walidsabbar1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidsabbar1/walidsabbar1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/walidsabbar1/walidsabbar1/output/github-contribution-grid-snake.svg">
+</picture>
