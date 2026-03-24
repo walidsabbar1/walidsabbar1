@@ -16,13 +16,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake animation (dark theme)
+      - name: generate snake animation (github style)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=00f5d4&color_dots=#0d1117,#161b22,#0e4429,#006d32,#26a641,#39d353
-            dist/github-contribution-grid-snake-dark.svg?color_snake=00f5d4&color_dots=#0d1117,#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
