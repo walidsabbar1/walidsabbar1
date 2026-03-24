@@ -5,9 +5,10 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-
+  
+<a href="#" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,react,laravel,nodejs,mongodb,mysql,redux,vite,postman,python,java,ruby,rails,vercel,supabase,git,github,linux&perline=9" />
-
+</a>
 </div>
 
 ---
