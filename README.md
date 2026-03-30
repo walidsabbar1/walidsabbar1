@@ -20,7 +20,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsabbar1&layout=compact&theme=radical&hide_border=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=walidsabbar1&theme=radical&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=walidsabbar1&theme=radical&hide_border=true"/>
 
 </div>
 
