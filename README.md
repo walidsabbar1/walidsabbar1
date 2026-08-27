@@ -40,14 +40,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/walidsabbar1/walidsabbar1/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
-
-## 🤝 Connect With Me
-<div align="center">
-
-<a href="https://github.com/walidsabbar1" target="_blank">
-<img src="https://skillicons.dev/icons?i=github,instagram" />
-</a>
-
-</div>
